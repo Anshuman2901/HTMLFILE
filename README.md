@@ -19,7 +19,8 @@ The goal of this project is to practice writing clean HTML code and understandin
 - Make the website responsive for mobile
 
 ## 📸 Screenshot
-![Website Screenshot](https://github.com/Anshuman2901/HTMLFILE/photo.html/website/screenshot.png)
+![Website Screenshot](https://github.com/Anshuman2901/HTMLFILE/assets/screenshot.png)
+
 
 
 ---
