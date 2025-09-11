@@ -5,7 +5,7 @@ This is a basic personal portfolio website built using only **HTML**. It's my **
 The goal of this project is to practice writing clean HTML code and understanding the structure of a webpage.
 
 ## 🔗 Live Demo
-[Click here to view the website](https://Anshuman2901.github.io/HTMLFILE/) <!-- Update this after deployment -->
+[Click here to view the website](http://127.0.0.1:5500/INDEX.HTML) <!-- Update this after deployment -->
 
 ## 📁 Features
 - About Me section with profile image
